@@ -14,4 +14,4 @@ A list of tools and pipelines useful for analyzing the genome of 100 accession i
 
 
 [CUSCO]:https://github.com/seikot345/CUSCO
-[corrPNG]:https//github.com/seikot345/corrPNG
+[corrPNG]:https://github.com/seikot345/corrPNG
