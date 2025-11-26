@@ -8,3 +8,4 @@ A list of tools and pipelines useful for analyzing the genome of 100 accession i
 
 -Pipeline for extracting single-copy orthologs from the genome fasta and constructing phylogenetic tree.
 
+-Visualization software for three type of GWAS outputs.
