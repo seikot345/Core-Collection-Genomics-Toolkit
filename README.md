@@ -4,11 +4,11 @@ A list of tools and pipelines useful for analyzing the genome of 100 accession i
 
 -Visualization tools for displaying outputs from [SyRI][SyRI].
 
--Software for performing GWAS using gene copy-number variations, based on outputs from [pangene][pangene].
-[corrPNG][corrPNG]
+[corrPNG][corrPNG]  -Software for performing GWAS using gene copy-number variations, based on outputs from [pangene][pangene].
 
--Pipeline for rapidly extracting single-copy orthologs from genome FASTA files and constructing phylogenetic trees.
-[CUSCO][CUSCO]
+
+[CUSCO][CUSCO]  -Pipeline for rapidly extracting single-copy orthologs from genome FASTA files and constructing phylogenetic trees.
+
 
 -Visualization tools for three types of GWAS outputs.
 
