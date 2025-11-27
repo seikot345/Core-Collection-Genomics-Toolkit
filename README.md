@@ -7,7 +7,7 @@ A list of tools and pipelines useful for analyzing the genome of 100 accession i
 -Software for GWAS with gene copy-number valiations from the output in pangene.
 [corrPNG][corrPNG]
 
--Pipeline for extracting single-copy orthologs from the genome fasta and constructing phylogenetic tree.
+-Pipeline for quickly extracting single-copy orthologs from the genome fasta and constructing phylogenetic tree.
 [CUSCO][CUSCO]
 
 -Visualization software for three type of GWAS outputs.
