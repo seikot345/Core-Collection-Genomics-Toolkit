@@ -2,16 +2,19 @@
 A list of tools and pipelines useful for analyzing the genome of 100 accession in the core collections (e.g. vegetable crops).
 
 
--Visualization software for output in Syri.
+-Visualization tools for displaying outputs from [SyRI][SyRI].
 
--Software for GWAS with gene copy-number valiations from the output in pangene.
+-Software for performing GWAS using gene copy-number variations, based on outputs from [pangene][pangene].
 [corrPNG][corrPNG]
 
--Pipeline for quickly extracting single-copy orthologs from the genome fasta and constructing phylogenetic tree.
+-Pipeline for rapidly extracting single-copy orthologs from genome FASTA files and constructing phylogenetic trees.
 [CUSCO][CUSCO]
 
--Visualization software for three type of GWAS outputs.
+-Visualization tools for three types of GWAS outputs.
 
 
+
+[SyRI]:https://github.com/schneebergerlab/syri
+[pangene]:https://github.com/lh3/pangene
 [CUSCO]:https://github.com/seikot345/CUSCO
 [corrPNG]:https://github.com/seikot345/corrPNG
