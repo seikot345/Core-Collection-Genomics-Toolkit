@@ -4,6 +4,8 @@ A list of tools and pipelines useful for analyzing the genome of 100 accession i
 
 -Visualization tools for displaying outputs from [SyRI][SyRI].
 
+-Software to create a PHYLIP format distance matrix from VCF.
+
 [corrPNG][corrPNG]  -Software for performing GWAS using gene copy-number variations, based on outputs from [pangene][pangene].
 
 
